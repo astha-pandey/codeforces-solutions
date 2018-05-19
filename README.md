@@ -1,2 +1,4 @@
 # hello-world
-just another repository
+hi people!!!
+its astha n i love python.... though m a beginner.... enjoy!!!
+
